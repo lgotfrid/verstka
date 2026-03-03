@@ -39,7 +39,7 @@ background-repeat: no-repeat;
 
 content {
 position: absolute;
-margin: auto auto 0 auto;
+margin-top: 50px;
 width: 1200px;
 height: 1168px;
 background-image: url('img/content_bg.png');
